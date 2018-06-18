@@ -1,0 +1,13 @@
+.av-table-licores-col-codigo, .av-table-licores-col-icons {
+	width: 60px;
+	text-align: center;
+}
+
+.av-table-licores-col-tipo {
+	width: 100px;
+}
+
+.av-table-licores-col-valor {
+	width: 150px;
+	text-align: right;
+}

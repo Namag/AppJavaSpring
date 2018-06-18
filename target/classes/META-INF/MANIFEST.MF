@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: projeto-spring-framework
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Namag
+Implementation-Vendor-Id: br.com.alpi
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/gestao-licor
+ es-spring/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
